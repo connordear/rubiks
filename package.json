@@ -1,6 +1,7 @@
 {
   "name": "rubiks",
   "version": "0.1.0",
+  "homepage": "https://connordear.ca/rubiks",
   "private": true,
   "dependencies": {
     "@react-three/fiber": "^8.2.2",
