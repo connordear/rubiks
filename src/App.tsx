@@ -2,7 +2,8 @@ import { Slider, Switch } from "antd";
 import React, { useState } from "react";
 import "./App.css";
 import { RubiksCube } from "./components/RubiksCube";
-import "antd/dist/antd.css";
+// import "antd/dist/antd.css";
+import "antd/dist/antd.min.css";
 function App() {
   const [size, setSize] = useState(3);
   const [xOffset, setXOffset] = useState(0);
